@@ -16,7 +16,14 @@ public class Main {
       Course cs102 = new Course("CS102", "Data Structures");
       Course cs103 = new Course("CS103", "Algorithms");
       
-      Arduino.teachCourse(cs101);
+      System.out.println(Arduino.getDetails());
+      System.out.println();
+      System.out.println(Uno.getDetails());
+      System.out.println();
+      System.out.println(Farrel.getDetails());
+      System.out.println();
+
+      Arduino.teachCourse(cs101);   
       Arduino.teachCourse(cs102);
       Uno.teachCourse(cs103);
   
