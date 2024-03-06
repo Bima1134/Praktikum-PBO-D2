@@ -1,7 +1,9 @@
 /**
+ * NIM / Nama: Bima Aditya Aryono
  * File      : Asersi2.java
  * Deskripsi : Program untuk demo asersi, yang akan menolak input 
  *             jari - jari lingkaran yang bernilai nol
+ * Tanggal   : 06-03-2024
  */
 class Lingkaran{
     private double JariJari;

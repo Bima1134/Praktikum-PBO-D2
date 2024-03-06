@@ -1,6 +1,8 @@
 /**
+ * NIM / Nama: Bima Aditya Aryono
  * File      : ExceptionOnArray.java
  * Deskripsi : program penggunaan eksepsi menggunakan class library Java
+ * Tanggal   : 06-03-2024
  */
 public class ExceptionOnArray {
     public static void main(String[] args){

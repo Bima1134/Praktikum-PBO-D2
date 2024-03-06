@@ -1,6 +1,8 @@
 /**
+ * NIM / Nama: Bima Aditya Aryono
  * File      : AngkaSial.java
  * Deskripsi : Program penggunaan exception buatan sendiri pengenalan klausa 'throw' dan 'throws'
+ * Tanggal   : 06-03-2024
  */
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException{
