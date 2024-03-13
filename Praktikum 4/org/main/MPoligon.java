@@ -10,10 +10,11 @@ import org.bangundatar.*;
 
 public class MPoligon {
     public static void main(String[] args){
+        // inisialisasi panjang, lebar dan jumlah sisi persegi panjang
         PersegiPanjang persegi= new PersegiPanjang(10, 10, 4);
         persegi.printInfo();
         System.out.println("Luas Persegi Panjang: "+persegi.hitungLuas());
-
+        // inisialisasi sisi sisi segitiga
         Segitiga segitiga = new Segitiga(3, 4, 5,3);
         System.out.println("Keliling dari segitiga: "+segitiga.hitungKeliling());
         System.out.println("Keliling dari segitiga: "+segitiga.semiPerimeter());

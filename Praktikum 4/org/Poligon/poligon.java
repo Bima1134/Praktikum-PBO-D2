@@ -7,8 +7,10 @@
 package org.Poligon;
 
 public class poligon {
+    // atribut
     protected int jumlahSisi;
-
+    // method
+    // fungsi mendapatkan jumlah sisi
     public int getJumlahSisi(){
         return this.jumlahSisi;
     }
