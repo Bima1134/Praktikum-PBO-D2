@@ -28,6 +28,9 @@ public class Student extends Person {
         this.studentID=studentID;
         this.coursesEnrolled = new ArrayList<>();
     }
+    public Student(){
+        super();
+    }
 
     // getter
     public String getDetails(){
