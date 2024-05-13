@@ -22,5 +22,5 @@ public class BangunDatarGeneric <T1 extends BangunDatar>{
 
 /*?
  * Dengan mengubah Segala T ke menjadi T yang berbeda beda maka akan membuat tidak bisa dipanggil BangunDatarGeneric karena pada tupple digunakan T1 untuk heritance BangunDatar.java sehingga harus
- * tetap menggunakan T1
+ * tetap menggunakan T1 
  */
