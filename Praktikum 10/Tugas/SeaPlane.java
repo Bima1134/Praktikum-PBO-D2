@@ -1,4 +1,9 @@
-// SeaPlane.java
+/*
+ * Nama Program : SeaPlane.java
+ * Penulis      : Bima Aditya Aryono /24060122140113
+ * Deskripsi    : Kelas untuk mendefinisikan pesawat laut (amfibi)
+ */
+
 public class SeaPlane extends Airplane {
 
     public SeaPlane() {

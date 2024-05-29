@@ -1,4 +1,9 @@
-// Helicopter.java
+/*
+ * Nama Program : Helicopter.java
+ * Penulis      : Bima Aditya Aryono /24060122140113
+ * Deskripsi    : Kelas untuk mendefinisikan helikopter
+ */
+
 public class Helicopter extends Airplane {
     private double maxLoad;
 
