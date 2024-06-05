@@ -30,7 +30,7 @@ public class JFrameUtama extends javax.swing.JFrame {
         
         initComponents();
         service = new MysqlMahasiswaService();
-        
+        loadMahasiswaList();
         jListId.addListSelectionListener(e -> updateTextFieldsFromList());
         jListNama.addListSelectionListener(e -> updateTextFieldsFromList());
     }
